@@ -1,3 +1,9 @@
+
+layout: post
+title: "CCNP Routing Basics"
+date: 2024-12-16
+categories: CCNP
+
 ## Welcome to the CCNP Journey: Mastering Advanced Networking
 
 Networking is the backbone of modern technology. From enabling seamless communication across continents to powering the cloud, networking professionals ensure the digital world remains connected and secure. If you've already laid a solid foundation with Cisco’s CCNA, the CCNP (Cisco Certified Network Professional) certification is your gateway to advanced networking expertise.
